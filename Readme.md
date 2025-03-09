@@ -1,4 +1,4 @@
-# Introduction
+# Scoring, Classification et Visualisation à partir de fichier lidar
 
 Le **LiDAR (Light Detection And Ranging)** est une technologie de télédétection active qui permet de cartographier en 3D le sol et le sursol. En France, l’IGN diffuse en open data des nuages de points LiDAR HD couvrant tout le territoire via la plateforme [diffusion-lidarhd.ign.fr](https://diffusion-lidarhd.ign.fr/). Ces nuages de points sont généralement fournis au format LAS/LAZ et contiennent des millions de points 3D classifiés (sol, végétation, bâtiments, etc.). 
 
